@@ -1,4 +1,8 @@
-## THE AI FELLOWS
+![copertina](https://user-images.githubusercontent.com/92163778/136698481-6f254555-2bf1-4878-9b2e-35d2b3e762db.png)
+
+
+
+## 
 
 ### WHO WE ARE
 
@@ -29,7 +33,7 @@ I WANT TO CREATE AN ACCADEMY!
 Yeah, you heard right!!! It will not be an easy thing to do, the process is complex and expensive.
 But I feel that this is the right thing to do.
 
-### GOAL OF THE ACCADEMY
+### ACCADEMY FEATURES
 
 This accademy will offer a full-comprehensive course about the keypoints of Artificial Intelligence.
 It will be FULLY in remote, with video-lessons for theory and notebook for exercised!
