@@ -1,3 +1,7 @@
+## THE AI FELLOWS
+
+### WHO WE ARE
+
 Hi! This is the GitHub repository of this community!
 I'm the Big Fellow and with me there is Robbie, our ambassador from the Republic of Robots!
 
@@ -9,6 +13,8 @@ Since I was a child I've always been affascinated by Technology and Science.
 I chose to devolve my life to try to improve humankind through Technology, studying as hard as I can to
 reach the highest level of skills and knowledge.
 The journey is not already finished, and my motivation and commitment for the cause grow bigger day by day!
+
+### OUR GOAL
 
 I've reached a point in my life in which hard work is paying me back, and I feel this is the right moment
 to share what I have with less fortunate.
@@ -22,6 +28,8 @@ I WANT TO CREATE AN ACCADEMY!
 
 Yeah, you heard right!!! It will not be an easy thing to do, the process is complex and expensive.
 But I feel that this is the right thing to do.
+
+### GOAL OF THE ACCADEMY
 
 This accademy will offer a full-comprehensive course about the keypoints of Artificial Intelligence.
 It will be FULLY in remote, with video-lessons for theory and notebook for exercised!
@@ -47,6 +55,7 @@ Lectures topic will be:
 * Time Series Forecasting
 * Reinforncement Learning
 
+### PRICE
 The course will not be free, it will cost ONE DOLLAR for a specific reason:
 Nothing worthy is free, everyone must commit to a cause, must put all the efforst pursuing one goal.
 This is what I'm still doing and I will not pass the concept that results can be achieved without effort.
@@ -57,6 +66,8 @@ the 25 most poor countries all over the world.
 1$ is a symbol, not a price. I paid much more money for my education, money that I gain with blood and tears.
 For the same blood and tears I want to help others. Noone has to suffer about money or politics conditions when we are
 talking about education.
+
+### CONCLUSIONS
 
 In conclusion, I'm here to ask help make the dream come true!
 I created these NFTs to finance my big project!!!
