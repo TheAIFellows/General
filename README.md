@@ -32,6 +32,21 @@ hosting with our workstations real-world projects upvoted by the community!
 With a raffle mechanisms, some follower will be chosen from the stream to use our workstations
 to implement State of The Art solutions!
 
+Lectures topic will be:
+* Linear Algebra
+* Calculus
+* Probability and Statistics
+* Convex Optimization
+* Algorithms & OOP with Python
+* Main concepts of Data Science
+* Machine Learning
+* Priciples of Neural Engineering
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
+* Time Series Forecasting
+* Reinforncement Learning
+
 The course will not be free, it will cost ONE DOLLAR for a specific reason:
 Nothing worthy is free, everyone must commit to a cause, must put all the efforst pursuing one goal.
 This is what I'm still doing and I will not pass the concept that results can be achieved without effort.
